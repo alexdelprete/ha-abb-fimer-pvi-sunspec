@@ -1,0 +1,8 @@
+{
+  "name": "ABB FIMER PVI SunSpec (Modbus)",
+  "homeassistant": "2025.10.0",
+  "content_in_root": false,
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "abb_fimer_pvi_sunspec.zip"
+}
